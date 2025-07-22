@@ -4,7 +4,6 @@ public class Calculator {
     private boolean isCalcOn = false;
 
     public boolean isOn() {
-        isCalcOn = false;
         return isCalcOn;
     }
 
